@@ -15,6 +15,7 @@ In the recent years, we have seen a rise in more brands utilizing TikTok as a ma
 ------------------------------------------
 **DS 350 Fall 2024 [Research on Tradwives]:** <br>
 This was my original Cred Lab research topic in Fall 2024. The following code file can be viewed here: https://colab.research.google.com/drive/1QI5TYSQYhe6YuGp8I1Fi8u8i-nlqSu4y?usp=sharing.
+- Used Detectron2 by Meta, CLIP (Contrastive Language-Image Pre-training) by OpenAI, and Vertex AI
 
 <br>
 The concept of “tradwives,” short for traditional wives, has recently gained a large
